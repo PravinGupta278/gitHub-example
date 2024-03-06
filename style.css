@@ -1,0 +1,161 @@
+/* p{
+    color: red;
+    background-color: yellow;
+} */
+
+/* body{
+    background-image: url("./image/GUPTA\ JI\ YT\ 3.png");
+    height: 100px;
+    width: 200%;
+} */
+
+
+/* img{
+    background-color: blue;
+    height: 100px;
+    width: 150px;
+} */
+/* p{
+    color: red;
+}
+#myname{
+    color: yellow;
+    background-color: black;
+}
+.myworld{
+    color: yellow;
+    background-color: black;
+} */
+
+
+/* p1,h1{
+    color: red;
+} */
+/* 
+div>p{
+    color: red;
+} */
+
+/* div>p{
+    color: yellow;
+} */
+/* img{
+ background-color: red;
+ height: 100px;
+}
+div:hover{
+ background-color: green; 
+}
+     */
+
+     /* pre::first-line{
+            color: red;
+            text-transform: uppercase;
+            font-size: xx-large;
+        }
+        p::first-letter{
+     color:  blue;
+            font-size: x-large;
+        } */
+
+/* pre::first-line{
+    color: red;
+}
+pre::first-letter{
+    /* background-color: blue; */
+    /* font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+         */
+
+         /* pre{
+            /* background-color: red; */
+            /* font-size: smaller; */
+            /* font-size: xx-small;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            background-image: url("./image/GUPTA\ JI\ YT\ 3.png");
+         }  */
+
+/* body{
+    background-image: url("");
+} */
+
+/* pre{
+    background-color: blue;
+    background-image: url(".png") */
+    /* background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-attachment: scroll;
+    background-position:top right; */
+    /* } */
+
+    /* .dotted{ */
+       /* border-style: dotted; */
+       /* border-style: dashed; */
+       /* border-style: dotted;
+       border-color: red;
+       border-radius:12px;
+       border-right: 100px;
+        } */
+     /* .dotted{
+        outline-style: dotted; */
+        /* color: red; */
+     /* }    */
+
+     /* p{ */
+        /* padding-left: 20px; */
+        /* padding-top: 10px; */
+        /* padding: 25px; */
+        /* margin: 10px;0 */
+        /* margin-bottom: 100px;
+        margin-right: 1000px; */
+
+     /* } */
+
+
+     /* pre{
+        background-color: aqua;
+        margin: 10px;
+        padding: 20px;
+        border: 10px solid;
+        border-color: brown;
+     } */
+
+     /* pre{
+        color: red;
+        background-color: yellow;
+     } */
+     Pre{
+        /* text-align:center; */
+        /* text-align-last:left;
+        text-transform:uppercase;
+        text-transform: lowercase;
+        text-transform: capitalize; */
+
+        /* direction:ltr;
+        unicode-bidi:bidi-override;
+        vertical-align:bottom; */
+        /* } */
+
+        /* a:visited{
+            color:yellow;
+            }
+             a:hover{
+            color:red;
+            } 
+            a:active {
+            background-color: black ;
+            }
+            
+          */
+
+          /* img{ */
+           /* width: 100px; */
+            /* width: 50px; */
+            /* opacity: 0.5; */
+            } 
+            /* img:hover{
+            opacity: 1;
+            background-image: url("./giphy.gif");
+            } */
+            
